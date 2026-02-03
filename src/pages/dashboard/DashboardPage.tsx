@@ -1,6 +1,6 @@
 import { TrendingUp, Users, ShoppingCart, DollarSign } from 'lucide-react';
 
-export function HomePage() {
+export default function DashboardPage() {
   const stats = [
     { label: 'Total Revenue', value: '$45,231', change: '+20.1%', icon: DollarSign, color: 'bg-green-500' },
     { label: 'Active Users', value: '2,350', change: '+15.3%', icon: Users, color: 'bg-blue-500' },

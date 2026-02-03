@@ -1,11 +1,32 @@
+# 🚀 React Admin Dashboard
 
-  # Dynamic Right Side Layout
+Modern Admin Dashboard built with **React + TypeScript** featuring reusable components, scalable architecture, and clean UI design.
 
-  This is a code bundle for Dynamic Right Side Layout. The original project is available at https://www.figma.com/design/4yFaVMPqtB139Kslyxxq2B/Dynamic-Right-Side-Layout.
+> This project demonstrates my ability to build structured frontend applications following industry best practices.
 
-  ## Running the code
+---
 
-  Run `npm i` to install the dependencies.
+## ✨ Features
 
-  Run `npm run dev` to start the development server.
-  # react-admin-dashboard
+✅ Clean and scalable folder structure  
+✅ Reusable components  
+✅ Admin layout (Sidebar + Navbar)  
+✅ Routing with React Router  
+✅ TypeScript for type safety  
+✅ Responsive design  
+✅ Ready for API integration  
+
+---
+
+## 🛠️ Tech Stack
+
+- React
+- TypeScript
+- Vite
+- React Router
+- CSS / Tailwind (adjust if needed)
+
+---
+
+## 📁 Project Structure
+
